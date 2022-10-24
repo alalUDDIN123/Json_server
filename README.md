@@ -19,12 +19,13 @@
 
 6. In the terminal write command `node servere.js`
 
-- Notes : You can change `port` according to yours `in the server.js` file `path also`
+- Notes : You can change `port` according to yours `in the server.js` file and `path also`
 
 7. If you don't want to run your server in the terminal again again when you change or add code 
    
      - Install `npm i nodemon`
 
-8. Go to your package.json file add this code ` "start": "nodemon server.js"`     
+8. Go to your package.json file add this code ` "start": "nodemon server.js"`    
+     - write command `npm start` 
 
 This package automatically detact code when you change or add and run server always for you
