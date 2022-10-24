@@ -6,11 +6,11 @@
 4. Create a file `server.js`
 5. Inside `server.js` file paste below code
 
-         const PORT = 3000;
+         const PORT = 3000;  // You can change port from here
         const path = require('path');
         const jsonServer = require('json-server');
         const server = jsonServer.create();
-        const router = jsonServer.router(path.join(__dirname, 'db.json'));
+        const router = jsonServer.router(path.join(__dirname, 'db.json'));  // This is where you can change your file path
         const middlewares = jsonServer.defaults();
         server.use(middlewares);
         server.use(jsonServer.bodyParser);
