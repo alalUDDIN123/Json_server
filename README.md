@@ -3,10 +3,11 @@
 1. Open a folder where you would like to setup
 2. `npm init -y`
 3. `npm i json-server --save`
-4. Create a file `server.js`
-5. Inside `server.js` file paste below code
+4. Create a file `db.json` and insert some json foramt data
+5. Create a file `server.js`
+6. Inside `server.js` file paste below code
 
-         const PORT = 3000;  // You can change port from here
+        const PORT = 3000;  // You can change port from here
         const path = require('path');
         const jsonServer = require('json-server');
         const server = jsonServer.create();
@@ -17,18 +18,26 @@
         server.use('/api', router);
         server.listen(PORT, () => console.log(`JSON Server is running on port ${PORT}`))
 
-6. In the terminal write command `node servere.js`
+7. In the terminal write command `node servere.js`
 
-- Notes : You can change `port` according to yours `in the server.js` file and `path also`
+   - Notes : You can change `port` according to yours `in the server.js` file and `path also`
 
-7. If you don't want to run your server in the terminal again again when you change or add code 
+8. If you don't want to run your server in the terminal again again when you change or add code 
    
      - Install `npm i nodemon`
 
-8. Go to your package.json file add this code ` "start": "nodemon server.js"`    
+9. Go to your package.json file add this code ` "start": "nodemon server.js"`    
      - write command `npm start` 
 
 This package automatically detact code when you change or add and run server always for you
+
+---
+
+## How to deploy json mock server ?
+
+1. create a `json-server` as I described above.
+2. push complete code on github (`repository should be public as recommanded`)
+3. 
 
 ## If You Face Any Problem Feel Free To Connect 
 ### Email : alalu75666@gmail.com
