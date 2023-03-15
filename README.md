@@ -37,7 +37,9 @@ This package automatically detact code when you change or add and run server alw
 
 1. create a `json-server` as I described above.
 2. push complete code on github (`repository should be public as recommanded`)
-3. 
+3. Open `render.com` :- https://render.com/ and `sign up` with github account
+   - You will get a email verification on mail. Just validate that email.
+4. On the render page you can see there a `NEW`. Just click there and you can select your repository.
 
 ## If You Face Any Problem Feel Free To Connect 
 ### Email : alalu75666@gmail.com
