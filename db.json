@@ -61,7 +61,7 @@
       "no_of_persons": "2",
       "capacity": "3",
       "cost": "200",
-      "booked": false
+      "booked": true
     },
     {
       "id": 5,
