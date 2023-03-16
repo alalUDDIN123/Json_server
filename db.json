@@ -4,20 +4,75 @@
       "id": 1,
       "name": "Gertrudis Tatterton",
       "email": "gtatterton0@ehow.com",
-      "password":"alal23"
+      "password": "alal23"
     }
-  
   ],
-  "hotels":[
+  "hotels": [
     {
+      "id": 1,
       "category": "Family",
       "image_url": "https://www.acaciahotelsmanila.com/wp-content/uploads/2020/09/room-deluxe_70df34c103b85ce7b2b5ff918ab8cf72.jpg",
       "type_of_room": "AC",
       "bed_type": "Double",
-      "no_of_persons":"2",
-      "capacity":"3",
-      "cost":"4000",
-      "booked":false
+      "no_of_persons": "2",
+      "capacity": "3",
+      "cost": "4000",
+      "booked": false
+    },
+    {
+      "id": 2,
+      "category": "Family",
+      "image_url": "https://www.acaciahotelsmanila.com/wp-content/uploads/2020/09/room-deluxe_70df34c103b85ce7b2b5ff918ab8cf72.jpg",
+      "type_of_room": "AC",
+      "bed_type": "Double",
+      "no_of_persons": "2",
+      "capacity": "3",
+      "cost": "400",
+      "booked": false
+    },
+    {
+      "id": 3,
+      "category": "Deluxe",
+      "image_url": "https://www.acaciahotelsmanila.com/wp-content/uploads/2020/09/room-deluxe_70df34c103b85ce7b2b5ff918ab8cf72.jpg",
+      "type_of_room": "AC",
+      "bed_type": "Double",
+      "no_of_persons": "2",
+      "capacity": "3",
+      "cost": "3000",
+      "booked": false
+    },
+    {
+      "id": 4,
+      "category": "Deluxe",
+      "image_url": "https://www.acaciahotelsmanila.com/wp-content/uploads/2020/09/room-deluxe_70df34c103b85ce7b2b5ff918ab8cf72.jpg",
+      "type_of_room": "AC",
+      "bed_type": "Double",
+      "no_of_persons": "2",
+      "capacity": "3",
+      "cost": "56000",
+      "booked": false
+    },
+    {
+      "id": 5,
+      "category": "Suite",
+      "image_url": "https://www.acaciahotelsmanila.com/wp-content/uploads/2020/09/room-deluxe_70df34c103b85ce7b2b5ff918ab8cf72.jpg",
+      "type_of_room": "AC",
+      "bed_type": "Double",
+      "no_of_persons": "2",
+      "capacity": "3",
+      "cost": "200",
+      "booked": false
+    },
+    {
+      "id": 5,
+      "category": "Suite",
+      "image_url": "https://www.acaciahotelsmanila.com/wp-content/uploads/2020/09/room-deluxe_70df34c103b85ce7b2b5ff918ab8cf72.jpg",
+      "type_of_room": "AC",
+      "bed_type": "Double",
+      "no_of_persons": "2",
+      "capacity": "3",
+      "cost": "200",
+      "booked": false
     }
   ]
 }
