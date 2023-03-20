@@ -80,5 +80,22 @@
       "cost": "200",
       "booked": true
     }
+  ],
+  "tasks": [
+    {
+      "id": 1,
+      "task": "Complete dsa",
+      "status": false
+    },
+    {
+      "id": 2,
+      "task": "Learn HTMl",
+      "status": true
+    },
+    {
+      "id": 3,
+      "task": "Do Coding",
+      "status": false
+    }
   ]
 }
