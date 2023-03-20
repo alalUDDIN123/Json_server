@@ -2,9 +2,15 @@
   "users": [
     {
       "id": 1,
-      "name": "Gertrudis Tatterton",
-      "email": "gtatterton0@ehow.com",
+      "name": "Alal Uddin",
+      "email": "alalu75@gmail.com",
       "password": "alal23"
+    },
+    {
+      "id": 2,
+      "name": "Chandra Shikkar",
+      "email": "chandra@gmail.com",
+      "password": "chandra12"
     }
   ],
   "hotels": [
@@ -72,7 +78,7 @@
       "no_of_persons": "2",
       "capacity": "3",
       "cost": "200",
-      "booked":true
+      "booked": true
     }
   ]
 }
