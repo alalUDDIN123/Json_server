@@ -84,13 +84,13 @@
   "tasks": [
     {
       "id": 1,
-      "user":"alal123@gmail.com",
+      "user":"alalu75@gmail.com",
       "task": "Complete dsa",
       "status": false
     },
     {
       "id": 2,
-      "user":"alal123@gmail.com",
+      "user":"alalu75@gmail.com",
       "task": "Learn HTMl",
       "status": true
     },
